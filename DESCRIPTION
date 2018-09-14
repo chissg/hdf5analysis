@@ -1,7 +1,7 @@
 Package: hdf5analysis
 Type: Package
 Title: Analysis of h5ls Output
-Version: 0.1.1
+Version: 0.1.2
 Author: Marc Paterno
 Maintainer: Marc Paterno <paterno@fnal.gov>
 Description: Functions to help analyze the structure of HDF5 files.
