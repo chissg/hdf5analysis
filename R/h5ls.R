@@ -29,8 +29,8 @@ read_h5ls <- function(filename)
                 , name = dsets[,3]
                 , nrec = as.integer(dsets[,4])
                 , asize = as.integer(dsets[,5])
-                , logical = as.integer(sizes[,2])
-                , alloc = as.integer(sizes[,3])
+                , logical = as.numeric(sizes[,2])
+                , alloc = as.numeric(sizes[,3])
         ) %>%
     tidyr::unite("fullname", c("table", "name"), sep = "/", remove = FALSE)
 }
