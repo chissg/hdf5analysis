@@ -1,0 +1,418 @@
+Opened "fardet_r00013915_s05_t02_R16-03-03-prod2reco.hdf5" with sec2 driver.
+/                        Group
+    Location:  1:96
+    Links:     1
+/energy                  Group
+    Location:  1:216192
+    Links:     1
+/energy/event            Dataset {94041/Inf, 1/1}
+    Location:  1:238648
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy/nshwlid          Dataset {94041/Inf, 1/1}
+    Location:  1:239192
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native unsigned int
+/energy/run              Dataset {94041/Inf, 1/1}
+    Location:  1:237776
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy/slice            Dataset {94041/Inf, 1/1}
+    Location:  1:238920
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy/subRun           Dataset {94041/Inf, 1/1}
+    Location:  1:238376
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy_bpfenergy        Group
+    Location:  1:232600
+    Links:     1
+/energy_bpfenergy/DirZMuon Dataset {94041/Inf, 1/1}
+    Location:  1:281944
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/E1     Dataset {94041/Inf, 1/1}
+    Location:  1:279264
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/E2     Dataset {94041/Inf, 1/1}
+    Location:  1:279808
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/E3     Dataset {94041/Inf, 1/1}
+    Location:  1:280352
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/EFuzzyK3D Dataset {94041/Inf, 1/1}
+    Location:  1:282488
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/ERemain Dataset {94041/Inf, 1/1}
+    Location:  1:282760
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/Eres1  Dataset {94041/Inf, 1/1}
+    Location:  1:279536
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/Eres2  Dataset {94041/Inf, 1/1}
+    Location:  1:280080
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/Eres3  Dataset {94041/Inf, 1/1}
+    Location:  1:281128
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/EventID Dataset {94041/Inf, 1/1}
+    Location:  1:281400
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/N3DProngs Dataset {94041/Inf, 1/1}
+    Location:  1:282216
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/PMuon  Dataset {94041/Inf, 1/1}
+    Location:  1:281672
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/SumPE  Dataset {94041/Inf, 1/1}
+    Location:  1:283032
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/energy_bpfenergy/event  Dataset {94041/Inf, 1/1}
+    Location:  1:278720
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy_bpfenergy/run    Dataset {94041/Inf, 1/1}
+    Location:  1:277848
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy_bpfenergy/slice  Dataset {94041/Inf, 1/1}
+    Location:  1:278992
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/energy_bpfenergy/subRun Dataset {94041/Inf, 1/1}
+    Location:  1:278448
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/mc_nu                   Group
+    Location:  1:295248
+    Links:     1
+/mc_nu/E                 Dataset {0/Inf, 1/1}
+    Location:  1:427208
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/L                 Dataset {0/Inf, 1/1}
+    Location:  1:428352
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/W2                Dataset {0/Inf, 1/1}
+    Location:  1:436776
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/eff               Dataset {0/Inf, 1/1}
+    Location:  1:429072
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/event             Dataset {0/Inf, 1/1}
+    Location:  1:426120
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/hitnuc            Dataset {0/Inf, 1/1}
+    Location:  1:433944
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/inttype           Dataset {0/Inf, 1/1}
+    Location:  1:435032
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/iscc              Dataset {0/Inf, 1/1}
+    Location:  1:434760
+    Links:     1
+    Chunks:    {128, 1} 256 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native unsigned short
+/mc_nu/isvtxcont         Dataset {0/Inf, 1/1}
+    Location:  1:428800
+    Links:     1
+    Chunks:    {128, 1} 256 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native unsigned short
+/mc_nu/mode              Dataset {0/Inf, 1/1}
+    Location:  1:434488
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/nhitslc           Dataset {0/Inf, 1/1}
+    Location:  1:429616
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native unsigned int
+/mc_nu/nhittot           Dataset {0/Inf, 1/1}
+    Location:  1:429888
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native unsigned int
+/mc_nu/nuid              Dataset {0/Inf, 1/1}
+    Location:  1:426664
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/pE                Dataset {0/Inf, 1/1}
+    Location:  1:431928
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/pX                Dataset {0/Inf, 1/1}
+    Location:  1:430760
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/pY                Dataset {0/Inf, 1/1}
+    Location:  1:431032
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/pZ                Dataset {0/Inf, 1/1}
+    Location:  1:431656
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/pdg               Dataset {0/Inf, 1/1}
+    Location:  1:426936
+    Links:     1
+    Chunks:    {128, 1} 256 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native short
+/mc_nu/pdgorig           Dataset {0/Inf, 1/1}
+    Location:  1:433672
+    Links:     1
+    Chunks:    {128, 1} 256 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native short
+/mc_nu/pur               Dataset {0/Inf, 1/1}
+    Location:  1:429344
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/q2                Dataset {0/Inf, 1/1}
+    Location:  1:435632
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/run               Dataset {0/Inf, 1/1}
+    Location:  1:425248
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/slice             Dataset {0/Inf, 1/1}
+    Location:  1:426392
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/subRun            Dataset {0/Inf, 1/1}
+    Location:  1:425848
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native int
+/mc_nu/time              Dataset {0/Inf, 1/1}
+    Location:  1:430488
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/visE              Dataset {0/Inf, 1/1}
+    Location:  1:427480
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/visEinslc         Dataset {0/Inf, 1/1}
+    Location:  1:427752
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/vtxX              Dataset {0/Inf, 1/1}
+    Location:  1:432528
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/vtxY              Dataset {0/Inf, 1/1}
+    Location:  1:432800
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/vtxZ              Dataset {0/Inf, 1/1}
+    Location:  1:433400
+    Links:     1
+    Chunks:    {128, 1} 1024 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native double
+/mc_nu/woscdumb          Dataset {0/Inf, 1/1}
+    Location:  1:434216
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/x                 Dataset {0/Inf, 1/1}
+    Location:  1:435904
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/mc_nu/y                 Dataset {0/Inf, 1/1}
+    Location:  1:436176
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   0 logical bytes, 0 allocated bytes
+    Type:      native float
+/sel_cvn                 Group
+    Location:  1:375696
+    Links:     1
+/sel_cvn/argmax          Dataset {94041/Inf, 1/1}
+    Location:  1:412392
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native unsigned int
+/sel_cvn/event           Dataset {94041/Inf, 1/1}
+    Location:  1:409712
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/sel_cvn/maxval          Dataset {94041/Inf, 1/1}
+    Location:  1:412120
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/ncid            Dataset {94041/Inf, 1/1}
+    Location:  1:411344
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/noutput         Dataset {94041/Inf, 1/1}
+    Location:  1:412664
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native unsigned int
+/sel_cvn/nueid           Dataset {94041/Inf, 1/1}
+    Location:  1:410800
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/numuid          Dataset {94041/Inf, 1/1}
+    Location:  1:410528
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/nutauid         Dataset {94041/Inf, 1/1}
+    Location:  1:411072
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/output          Dataset {94041/Inf, 15/15}
+    Location:  1:410256
+    Links:     1
+    Chunks:    {128, 15} 7680 bytes
+    Storage:   5642460 logical bytes, 5644800 allocated bytes, 99.96% utilization
+    Type:      native float
+/sel_cvn/run             Dataset {94041/Inf, 1/1}
+    Location:  1:408840
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/sel_cvn/slice           Dataset {94041/Inf, 1/1}
+    Location:  1:409984
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
+/sel_cvn/subRun          Dataset {94041/Inf, 1/1}
+    Location:  1:409440
+    Links:     1
+    Chunks:    {128, 1} 512 bytes
+    Storage:   376164 logical bytes, 376320 allocated bytes, 99.96% utilization
+    Type:      native int
